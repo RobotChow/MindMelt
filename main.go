@@ -15,7 +15,8 @@ func main() {
 
 	puppy.From12()
 
-	fmt.Printf("This is version v1.5")
+	fmt.Printf("This is version v1.6")
 }
 
-//version v1.5
+//version v1.6
+//This is a test
